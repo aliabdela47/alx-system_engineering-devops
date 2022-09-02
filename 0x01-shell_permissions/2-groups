@@ -1,2 +1,2 @@
 #!/bin/bash
-groupst
+groups root
