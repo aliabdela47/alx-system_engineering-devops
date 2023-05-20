@@ -1,8 +1,7 @@
-myschool.tech
-sylvain@ubuntu$
-sylvain@ubuntu$ dig myschool.tech
+holb2023udj1ns.tech
+dig holb2023udj1ns.tech
 
-; <<>> DiG 9.10.6 <<>> myschool.tech
+; <<>> DiG 9.10.6 <<>> holb2023udj1ns.tech
 ;; global options: +cmd
 ;; Got answer:
 ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26785
@@ -14,7 +13,7 @@ sylvain@ubuntu$ dig myschool.tech
 ;myschool.tech.     IN  A
 
 ;; ANSWER SECTION:
-myschool.tech.  7199    IN  A   184.72.193.201
+holb2023udj1ns.tech.  7199    IN  A   54.160.94.245
 
 ;; Query time: 65 msec
 ;; SERVER: 8.8.8.8#53(8.8.8.8)
