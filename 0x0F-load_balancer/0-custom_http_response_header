@@ -20,7 +20,7 @@ sudo echo "Ceci n'est pas une page" > /var/www/html/404.html
 printf %s "server {
     listen 80 default_server;
     listen [::]:80 default_server;
-    add_header X-Served-By $HOSTNAME;
+    add_header X-Served-By "113695-web-01";
     root   /var/www/html;
     index  index.html index.htm;
     location /redirect_me {
